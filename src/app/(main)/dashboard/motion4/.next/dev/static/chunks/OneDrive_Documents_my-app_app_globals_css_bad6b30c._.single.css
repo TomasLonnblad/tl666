@@ -1,0 +1,23 @@
+/* [project]/OneDrive/Documents/my-app/app/globals.css [app-client] (css) */
+.embla {
+  overflow: hidden;
+}
+
+.embla__container {
+  display: flex;
+}
+
+.embla__slide {
+  flex: none;
+  width: 100%;
+  max-width: 100%;
+  padding: 0 10px;
+}
+
+.embla__slide__img {
+  object-fit: cover;
+  width: 100%;
+  height: 400px;
+}
+
+/*# sourceMappingURL=OneDrive_Documents_my-app_app_globals_css_bad6b30c._.single.css.map*/
