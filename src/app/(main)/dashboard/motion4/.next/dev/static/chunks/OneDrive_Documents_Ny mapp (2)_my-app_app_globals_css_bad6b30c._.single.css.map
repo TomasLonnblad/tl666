@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/OneDrive/Documents/Ny mapp (2)/my-app/app/globals.css"],"sourcesContent":[".embla {\n overflow: hidden;\n}\n.embla__container {\n display: flex;\n}\n.embla__slide {\n flex: 0 0 auto;\n width: 100%;\n max-width: 100%;\n padding: 0 10px;\n}\n.embla__slide__img {\n width: 100%;\n height: 400px;\n object-fit: cover;\n}"],"names":[],"mappings":"AAAA;;;;AAGA;;;;AAGA;;;;;;;AAMA"}}]
-}
